@@ -28,13 +28,13 @@ To actively contribute to the creation of a **secure, resilient, and threat-awar
 ## 🧠 **Core Competencies**
 
 * Vulnerability Assessment & Penetration Testing (Web, Mobile, Network)
-* Red Team Operations & Adversary Simulation
+* Red Team Operations & Adversary Simulation - 
 * SOC Operations & Threat Detection
 * SIEM & SOAR Engineering
 * Incident Response & Threat Hunting
 * Social Engineering & Phishing Simulations
 * Security Architecture & Risk Management
-* Compliance (PCI DSS, ISO, NIST)
+* Compliance (PCI DSS, ISO, NIST, OWASP)
 
 ---
 
