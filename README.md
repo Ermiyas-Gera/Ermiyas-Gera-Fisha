@@ -5,13 +5,13 @@
 📍 Addis Ababa, Ethiopia
 📧 [ermiyasgera@gmail.com](mailto:ermiyasgera@gmail.com)
 📞 +251 938 047 394
-🔗 [LinkedIn](https://linkedin.com)
+🔗 [LinkedIn]([https://www.linkedin.com/in/ermiyasgera/])
 
 ---
 
 ## 🛡️ **About Me**
 
-I am a cybersecurity professional with **10+ years of experience** across **Vulnerability Assessment & Penetration Testing (VAPT), SOC Operations, Incident Response, and Security Engineering**.
+I am a cybersecurity professional with **11+ years of experience** across **Vulnerability Assessment & Penetration Testing (VAPT), SOC Operations, Incident Response, and Security Engineering**.
 
 Currently, I lead **offensive security operations** at **Bank of Abyssinia**, where I design, execute, and mature enterprise-level **red team, VAPT, and security monitoring programs**.
 
@@ -146,33 +146,27 @@ Addis Ababa University
 * **SOCradar** – Threat Intelligence & Dark Web
 * **TCM Security** – Help Desk, Python, Linux
 * **Cornerstone** – Project Management & MEAL
-* **Udemy** – Ethical Hacking, SOC, Python, NIST, Network Security
+* **Udemy** – Ethical Hacking, SOC, Python, NIST, Network Security, etc
 * **Many advanced cybersecurity trainings**
 
 ---
 
 ## 🛠️ **Tools & Technologies**
 
-`Burp Suite` · `Metasploit` · `Nessus` · `Nuclei` · `SQLMap` · `Wireshark`
-`IBM QRadar` · `IBM SOAR` · `Wazuh` · `OSSEC` · `Kaspersky`
-`Linux` · `Python` · `Bash` · `Nmap` · `Active Directory`
+`Burp Suite` · `Metasploit` · `Nessus` · `SQLMap` · `Wireshark` · `Nmap` . 'Acunetix' . 'Rapid 7 VM' . 'ZAP proxy'
+`IBM QRadar` · `IBM SOAR` · `Wazuh` · `OSSEC` · `Kaspersky` . 'Defectdojo'
+`Linux` · `Python` . 'HTML' . 'CSS' . 'JavaScript' . 'kali linux' . 'SQL'
 
 ---
 
 ## 🧩 **What I Do on GitHub**
 
-* Red Team tools & scripts
-* Vulnerability research
-* SOC automation
-* SIEM use-cases
-* Security labs & frameworks
-
 ---
 
 ## 📫 **Let’s Connect**
 
-If you're interested in **security collaboration, red team projects, or SOC engineering**, feel free to reach out:
+If you're interested in **Security Consultation, security collaboration, red team projects, Vulnerability Assessment and Penetration Testing or SOC engineering**, feel free to reach out:
 
 📧 **[ermiyasgera@gmail.com](mailto:ermiyasgera@gmail.com)**
-🔗 **LinkedIn: [https://linkedin.com](https://linkedin.com)**
+🔗 **LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/ermiyasgera/)**
 
