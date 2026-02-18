@@ -1,6 +1,6 @@
 # 👨‍💻 **Ermiyas Gera Fisha**
 
-**Cybersecurity Leader | VAPT Manager | Red Team & SOC Expert**
+**Cybersecurity Leader | VAPT Manager | Red Team & SOC Expert | Ethical Hacker**
 
 📍 Addis Ababa, Ethiopia
 📧 [ermiyasgera@gmail.com](mailto:ermiyasgera@gmail.com)
@@ -133,6 +133,11 @@ Addis Ababa University
 
 🎓 **BSc – Computer Science**
 Addis Ababa University
+
+🎓 **Cybersecurity and Digital Forensics Student**
+International Cybersecurity & Digital Forensics Academy
+
+
 
 ---
 
