@@ -134,7 +134,7 @@ Addis Ababa University
 🎓 **BSc – Computer Science**
 Addis Ababa University
 
-🎓 **Cybersecurity and Digital Forensics Student**
+🎓 **Web Application Security & Digital Forensics Student**
 International Cybersecurity & Digital Forensics Academy
 
 
