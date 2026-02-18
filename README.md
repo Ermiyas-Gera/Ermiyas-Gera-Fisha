@@ -5,7 +5,7 @@
 📍 Addis Ababa, Ethiopia
 📧 [ermiyasgera@gmail.com](mailto:ermiyasgera@gmail.com)
 📞 +251 938 047 394
-🔗 [LinkedIn]([https://www.linkedin.com/in/ermiyasgera/])
+🔗 [LinkedIn](https://www.linkedin.com/in/ermiyasgera/)
 
 ---
 
